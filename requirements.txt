@@ -1,0 +1,5 @@
+pypdf==5.0.0
+Pillow==9.5.0
+opencv-python==4.9.0.80
+numpy==1.25.0
+pandas==2.1.0
