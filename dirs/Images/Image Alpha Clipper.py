@@ -2,7 +2,6 @@ import streamlit as st
 import cv2 
 import numpy as np
 from PIL import Image
-import os
 
 def hex_to_rgb(hex) -> list:
     h = hex.lstrip("#")
@@ -11,33 +10,25 @@ def hex_to_rgb(hex) -> list:
 st.title("Image Alpha Clipper")
 
 input_color = st.color_picker("Pick color to clip", value="#ffffff")
-st.write(hex_to_rgb(input_color))
+c1, c2 = st.columns(2)
+with c1:
+    st.markdown(f"""#### RGB
+                    {hex_to_rgb(input_color)}""")
+with c2:
+    st.markdown(f"""#### HEX
+                    {input_color}""")
+
 input_file = st.file_uploader("Image", key="input_file", type=["png", "jpg", "jpeg"])
-# clip_tol = st.number_input("Tolerance", key="clip_tol", min_value=0.1, max_value=1.0, step=0.01)
 clip_tol = st.slider("Tolerance", key="clip_tol", min_value=0.1, max_value=1.0, step=0.01, value=0.75)
 
 st.divider()
 if st.session_state["input_file"]:
-    # st.write(input_file.file_id)
     st.subheader("Preview")
     pil_image = Image.open(st.session_state["input_file"])
-    im = cv2.cvtColor(np.array(pil_image), cv2.COLOR_BGR2BGRA)
-    img = np.array(im)
+    img = cv2.cvtColor(np.array(pil_image), cv2.COLOR_RGB2BGRA)
     tol_per = st.session_state["clip_tol"]
     img[:,:, -1] = np.where((img[:,:,0]>(255*tol_per)) & (img[:,:,1]>(255*tol_per))  & (img[:,:,2]>(255*tol_per)) , 0, img[:,:, -1])
-    st.image(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
-
-    # if st.button("Save"):
-
-    #     if os.path.exists("alphaclip"):
-    #         pass
-    #     else:
-    #         os.mkdir("alphaclip")
-
-        
-    #     path = os.path.join("alphaclip", "clipped.png")
-    #     cv2.imwrite(path, img)
-    #     st.success("Saved in folder : " + path)
+    st.image(cv2.cvtColor(img, cv2.COLOR_BGRA2RGBA))
 
     cv2.imwrite("temp.png", img)
     downloadable = open("temp.png", "rb").read()

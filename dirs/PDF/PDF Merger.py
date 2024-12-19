@@ -8,13 +8,10 @@ def Merge_pdfs(bin_values : list):
     """
     after merging return the path at which it is merged
     """
+    
     merger = PdfWriter()
     for bin in bin_values:
-        # infile = PdfReader(io.BytesIO(bin))
-        # merger.append(infile)
-        
         merger.append(PdfReader(bin))
-        # merger.add_page(PdfReader(bin))
 
     if os.path.exists("combined"):
         pass
@@ -39,8 +36,6 @@ def displayPDF(file):
 
     # Embedding PDF in HTML
     pdf_display = F'<embed src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf">'
-
-    # Displaying File
     st.markdown(pdf_display, unsafe_allow_html=True)
 
 if st.button("Merge"):
