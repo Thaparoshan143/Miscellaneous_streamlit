@@ -1,0 +1,909 @@
+
+{	
+	"OTHERS":
+	[
+		{
+			"Symbol" : "NTC"
+		},
+ 		{
+			"Symbol" : "NRIC"
+		},
+ 		{
+			"Symbol" : "NRM"
+		},
+ 		{
+			"Symbol" : "MKCL"
+		},
+ 		{
+			"Symbol" : "NWCL"
+		},
+ 		{
+			"Symbol" : "HRL"
+		}
+	],
+		
+	"COMMERCIAL BANKS":
+	[
+		{
+			"Symbol" : "NABIL"
+		},
+ 		{
+			"Symbol" : "NIMB"
+		},
+ 		{
+			"Symbol" : "SCB"
+		},
+ 		{
+			"Symbol" : "HBL"
+		},
+ 		{
+			"Symbol" : "SBI"
+		},
+ 		{
+			"Symbol" : "EBL"
+		},
+ 		{
+			"Symbol" : "NICA"
+		},
+ 		{
+			"Symbol" : "MBL"
+		},
+ 		{
+			"Symbol" : "LSL"
+		},
+ 		{
+			"Symbol" : "KBL"
+		},
+ 		{
+			"Symbol" : "SBL"
+		},
+ 		{
+			"Symbol" : "SANIMA"
+		},
+ 		{
+			"Symbol" : "NMB"
+		},
+ 		{
+			"Symbol" : "PRVU"
+		},
+ 		{
+			"Symbol" : "GBIME"
+		},
+ 		{
+			"Symbol" : "CZBIL"
+		},
+ 		{
+			"Symbol" : "PCBL"
+		},
+ 		{
+			"Symbol" : "ADBL"
+		},
+ 		{
+			"Symbol" : "NBL"
+		}
+	],
+		
+	"HOTELS AND TOURISM":
+	[
+		{
+			"Symbol" : "SHL"
+		},
+ 		{
+			"Symbol" : "TRH"
+		},
+ 		{
+			"Symbol" : "OHL"
+		},
+ 		{
+			"Symbol" : "CGH"
+		},
+ 		{
+			"Symbol" : "KDL"
+		},
+ 		{
+			"Symbol" : "CITY"
+		}
+	],
+		
+	"HYDROPOWER":
+	[
+		{
+			"Symbol" : "NHPC"
+		},
+ 		{
+			"Symbol" : "BPCL"
+		},
+ 		{
+			"Symbol" : "CHCL"
+		},
+ 		{
+			"Symbol" : "AHPC"
+		},
+ 		{
+			"Symbol" : "SHPC"
+		},
+ 		{
+			"Symbol" : "RIDI"
+		},
+ 		{
+			"Symbol" : "BARUN"
+		},
+ 		{
+			"Symbol" : "API"
+		},
+ 		{
+			"Symbol" : "NGPL"
+		},
+ 		{
+			"Symbol" : "KKHC"
+		},
+ 		{
+			"Symbol" : "DHPL"
+		},
+ 		{
+			"Symbol" : "AKPL"
+		},
+ 		{
+			"Symbol" : "SPDL"
+		},
+ 		{
+			"Symbol" : "UMHL"
+		},
+ 		{
+			"Symbol" : "CHL"
+		},
+ 		{
+			"Symbol" : "HPPL"
+		},
+ 		{
+			"Symbol" : "NHDL"
+		},
+ 		{
+			"Symbol" : "RADHI"
+		},
+ 		{
+			"Symbol" : "PMHPL"
+		},
+ 		{
+			"Symbol" : "KPCL"
+		},
+ 		{
+			"Symbol" : "AKJCL"
+		},
+ 		{
+			"Symbol" : "JOSHI"
+		},
+ 		{
+			"Symbol" : "UPPER"
+		},
+ 		{
+			"Symbol" : "GHL"
+		},
+ 		{
+			"Symbol" : "UPCL"
+		},
+ 		{
+			"Symbol" : "MHNL"
+		},
+ 		{
+			"Symbol" : "PPCL"
+		},
+ 		{
+			"Symbol" : "HURJA"
+		},
+ 		{
+			"Symbol" : "UNHPL"
+		},
+ 		{
+			"Symbol" : "RHPL"
+		},
+ 		{
+			"Symbol" : "SJCL"
+		},
+ 		{
+			"Symbol" : "HDHPC"
+		},
+ 		{
+			"Symbol" : "LEC"
+		},
+ 		{
+			"Symbol" : "SSHL"
+		},
+ 		{
+			"Symbol" : "MEN"
+		},
+ 		{
+			"Symbol" : "UMRH"
+		},
+ 		{
+			"Symbol" : "GLH"
+		},
+ 		{
+			"Symbol" : "SHEL"
+		},
+ 		{
+			"Symbol" : "RURU"
+		},
+ 		{
+			"Symbol" : "MKJC"
+		},
+ 		{
+			"Symbol" : "SAHAS"
+		},
+ 		{
+			"Symbol" : "TPC"
+		},
+ 		{
+			"Symbol" : "SPC"
+		},
+ 		{
+			"Symbol" : "NYADI"
+		},
+ 		{
+			"Symbol" : "MBJC"
+		},
+ 		{
+			"Symbol" : "BNHC"
+		},
+ 		{
+			"Symbol" : "GVL"
+		},
+ 		{
+			"Symbol" : "BHL"
+		},
+ 		{
+			"Symbol" : "RFPL"
+		},
+ 		{
+			"Symbol" : "DORDI"
+		},
+ 		{
+			"Symbol" : "BHDC"
+		},
+ 		{
+			"Symbol" : "HHL"
+		},
+ 		{
+			"Symbol" : "UHEWA"
+		},
+ 		{
+			"Symbol" : "SGHC"
+		},
+ 		{
+			"Symbol" : "MHL"
+		},
+ 		{
+			"Symbol" : "USHEC"
+		},
+ 		{
+			"Symbol" : "RHGCL"
+		},
+ 		{
+			"Symbol" : "SPHL"
+		},
+ 		{
+			"Symbol" : "PPL"
+		},
+ 		{
+			"Symbol" : "SIKLES"
+		},
+ 		{
+			"Symbol" : "EHPL"
+		},
+ 		{
+			"Symbol" : "PHCL"
+		},
+ 		{
+			"Symbol" : "BHPL"
+		},
+ 		{
+			"Symbol" : "SMHL"
+		},
+ 		{
+			"Symbol" : "SPL"
+		},
+ 		{
+			"Symbol" : "SMH"
+		},
+ 		{
+			"Symbol" : "MKHC"
+		},
+ 		{
+			"Symbol" : "AHL"
+		},
+ 		{
+			"Symbol" : "TAMOR"
+		},
+ 		{
+			"Symbol" : "MHCL"
+		},
+ 		{
+			"Symbol" : "SMJC"
+		},
+ 		{
+			"Symbol" : "MAKAR"
+		},
+ 		{
+			"Symbol" : "MKHL"
+		},
+ 		{
+			"Symbol" : "DOLTI"
+		},
+ 		{
+			"Symbol" : "BEDC"
+		},
+ 		{
+			"Symbol" : "MCHL"
+		},
+ 		{
+			"Symbol" : "IHL"
+		},
+ 		{
+			"Symbol" : "MEL"
+		},
+ 		{
+			"Symbol" : "RAWA"
+		},
+ 		{
+			"Symbol" : "USHL"
+		},
+ 		{
+			"Symbol" : "TSHL"
+		},
+ 		{
+			"Symbol" : "KBSH"
+		},
+ 		{
+			"Symbol" : "MEHL"
+		},
+ 		{
+			"Symbol" : "ULHC"
+		},
+ 		{
+			"Symbol" : "MANDU"
+		},
+ 		{
+			"Symbol" : "BGWT"
+		},
+ 		{
+			"Symbol" : "MSHL"
+		},
+ 		{
+			"Symbol" : "MMKJL"
+		},
+ 		{
+			"Symbol" : "TVCL"
+		},
+ 		{
+			"Symbol" : "VLUCL"
+		},
+ 		{
+			"Symbol" : "CKHL"
+		}
+	],
+		
+	"TRADINGS":
+	[
+		{
+			"Symbol" : "STC"
+		},
+ 		{
+			"Symbol" : "BBC"
+		}
+	],
+		
+	"MICROFINANCE":
+	[
+		{
+			"Symbol" : "NUBL"
+		},
+ 		{
+			"Symbol" : "CBBL"
+		},
+ 		{
+			"Symbol" : "DDBL"
+		},
+ 		{
+			"Symbol" : "SWBBL"
+		},
+ 		{
+			"Symbol" : "NMLBBL"
+		},
+ 		{
+			"Symbol" : "FMDBL"
+		},
+ 		{
+			"Symbol" : "SLBBL"
+		},
+ 		{
+			"Symbol" : "SKBBL"
+		},
+ 		{
+			"Symbol" : "GBLBS"
+		},
+ 		{
+			"Symbol" : "KMCDB"
+		},
+ 		{
+			"Symbol" : "MLBBL"
+		},
+ 		{
+			"Symbol" : "LLBS"
+		},
+ 		{
+			"Symbol" : "VLBS"
+		},
+ 		{
+			"Symbol" : "HLBSL"
+		},
+ 		{
+			"Symbol" : "JSLBB"
+		},
+ 		{
+			"Symbol" : "NMBMF"
+		},
+ 		{
+			"Symbol" : "GILB"
+		},
+ 		{
+			"Symbol" : "SWMF"
+		},
+ 		{
+			"Symbol" : "MERO"
+		},
+ 		{
+			"Symbol" : "NMFBS"
+		},
+ 		{
+			"Symbol" : "RSDC"
+		},
+ 		{
+			"Symbol" : "FOWAD"
+		},
+ 		{
+			"Symbol" : "SMATA"
+		},
+ 		{
+			"Symbol" : "MSLB"
+		},
+ 		{
+			"Symbol" : "SMB"
+		},
+ 		{
+			"Symbol" : "USLB"
+		},
+ 		{
+			"Symbol" : "WNLB"
+		},
+ 		{
+			"Symbol" : "NADEP"
+		},
+ 		{
+			"Symbol" : "ACLBSL"
+		},
+ 		{
+			"Symbol" : "SLBSL"
+		},
+ 		{
+			"Symbol" : "ALBSL"
+		},
+ 		{
+			"Symbol" : "GMFBS"
+		},
+ 		{
+			"Symbol" : "GLBSL"
+		},
+ 		{
+			"Symbol" : "SMFBS"
+		},
+ 		{
+			"Symbol" : "ILBS"
+		},
+ 		{
+			"Symbol" : "NICLBSL"
+		},
+ 		{
+			"Symbol" : "MLBSL"
+		},
+ 		{
+			"Symbol" : "JBLB"
+		},
+ 		{
+			"Symbol" : "SAMAJ"
+		},
+ 		{
+			"Symbol" : "MLBS"
+		},
+ 		{
+			"Symbol" : "NESDO"
+		},
+ 		{
+			"Symbol" : "ULBSL"
+		},
+ 		{
+			"Symbol" : "CYCL"
+		},
+ 		{
+			"Symbol" : "AVYAN"
+		},
+ 		{
+			"Symbol" : "DLBS"
+		},
+ 		{
+			"Symbol" : "SHLB"
+		},
+ 		{
+			"Symbol" : "UNLB"
+		},
+ 		{
+			"Symbol" : "ANLB"
+		}
+	],
+		
+	"DEVELOPMENT BANKS":
+	[
+		{
+			"Symbol" : "NABBC"
+		},
+ 		{
+			"Symbol" : "EDBL"
+		},
+ 		{
+			"Symbol" : "LBBL"
+		},
+ 		{
+			"Symbol" : "MDB"
+		},
+ 		{
+			"Symbol" : "MLBL"
+		},
+ 		{
+			"Symbol" : "GBBL"
+		},
+ 		{
+			"Symbol" : "JBBL"
+		},
+ 		{
+			"Symbol" : "KRBL"
+		},
+ 		{
+			"Symbol" : "CORBL"
+		},
+ 		{
+			"Symbol" : "KSBBL"
+		},
+ 		{
+			"Symbol" : "SADBL"
+		},
+ 		{
+			"Symbol" : "SHINE"
+		},
+ 		{
+			"Symbol" : "MNBBL"
+		},
+ 		{
+			"Symbol" : "SINDU"
+		},
+ 		{
+			"Symbol" : "GRDBL"
+		},
+ 		{
+			"Symbol" : "SAPDBL"
+		}
+	],
+		
+	"NON LIFE INSURANCE":
+	[
+		{
+			"Symbol" : "NICL"
+		},
+ 		{
+			"Symbol" : "RBCL"
+		},
+ 		{
+			"Symbol" : "HEI"
+		},
+ 		{
+			"Symbol" : "UAIL"
+		},
+ 		{
+			"Symbol" : "SPIL"
+		},
+ 		{
+			"Symbol" : "NIL"
+		},
+ 		{
+			"Symbol" : "PRIN"
+		},
+ 		{
+			"Symbol" : "SALICO"
+		},
+ 		{
+			"Symbol" : "IGI"
+		},
+ 		{
+			"Symbol" : "SICL"
+		},
+ 		{
+			"Symbol" : "NLG"
+		},
+ 		{
+			"Symbol" : "SGIC"
+		}
+	],
+		
+	"LIFE INSURANCE":
+	[
+		{
+			"Symbol" : "NLICL"
+		},
+ 		{
+			"Symbol" : "NLIC"
+		},
+ 		{
+			"Symbol" : "LICN"
+		},
+ 		{
+			"Symbol" : "ALICL"
+		},
+ 		{
+			"Symbol" : "HLI"
+		},
+ 		{
+			"Symbol" : "SJLIC"
+		},
+ 		{
+			"Symbol" : "PMLI"
+		},
+ 		{
+			"Symbol" : "SRLI"
+		},
+ 		{
+			"Symbol" : "ILI"
+		},
+ 		{
+			"Symbol" : "RNLI"
+		},
+ 		{
+			"Symbol" : "SNLI"
+		},
+ 		{
+			"Symbol" : "CLI"
+		}
+	],
+		
+	"FINANCE":
+	[
+		{
+			"Symbol" : "NFS"
+		},
+ 		{
+			"Symbol" : "GUFL"
+		},
+ 		{
+			"Symbol" : "BFC"
+		},
+ 		{
+			"Symbol" : "GFCL"
+		},
+ 		{
+			"Symbol" : "PFL"
+		},
+ 		{
+			"Symbol" : "SIFC"
+		},
+ 		{
+			"Symbol" : "CFCL"
+		},
+ 		{
+			"Symbol" : "JFL"
+		},
+ 		{
+			"Symbol" : "SFCL"
+		},
+ 		{
+			"Symbol" : "GMFIL"
+		},
+ 		{
+			"Symbol" : "ICFC"
+		},
+ 		{
+			"Symbol" : "PROFL"
+		},
+ 		{
+			"Symbol" : "MPFL"
+		},
+ 		{
+			"Symbol" : "MFIL"
+		},
+ 		{
+			"Symbol" : "RLFL"
+		}
+	],
+		
+	"MANUFACTURING AND PROCESSING":
+	[
+		{
+			"Symbol" : "BNL"
+		},
+ 		{
+			"Symbol" : "NLO"
+		},
+ 		{
+			"Symbol" : "BNT"
+		},
+ 		{
+			"Symbol" : "UNL"
+		},
+ 		{
+			"Symbol" : "HDL"
+		},
+ 		{
+			"Symbol" : "SHIVM"
+		},
+ 		{
+			"Symbol" : "GCIL"
+		},
+ 		{
+			"Symbol" : "SONA"
+		},
+ 		{
+			"Symbol" : "SARBTM"
+		}
+	],
+		
+	"INVESTMENT":
+	[
+		{
+			"Symbol" : "CIT"
+		},
+ 		{
+			"Symbol" : "HIDCL"
+		},
+ 		{
+			"Symbol" : "NRN"
+		},
+ 		{
+			"Symbol" : "NIFRA"
+		},
+ 		{
+			"Symbol" : "CHDC"
+		},
+ 		{
+			"Symbol" : "ENL"
+		},
+ 		{
+			"Symbol" : "HATHY"
+		}
+	],
+		
+	"MUTUAL FUND":
+	[
+		{
+			"Symbol" : "NIBSF1"
+		},
+ 		{
+			"Symbol" : "GIMES1"
+		},
+ 		{
+			"Symbol" : "NMBHF1"
+		},
+ 		{
+			"Symbol" : "NEF"
+		},
+ 		{
+			"Symbol" : "NIBLPF"
+		},
+ 		{
+			"Symbol" : "LEMF"
+		},
+ 		{
+			"Symbol" : "SEF"
+		},
+ 		{
+			"Symbol" : "GIBF1"
+		},
+ 		{
+			"Symbol" : "CMF1"
+		},
+ 		{
+			"Symbol" : "SAEF"
+		},
+ 		{
+			"Symbol" : "NICGF"
+		},
+ 		{
+			"Symbol" : "NICBF"
+		},
+ 		{
+			"Symbol" : "SIGS2"
+		},
+ 		{
+			"Symbol" : "CMF2"
+		},
+ 		{
+			"Symbol" : "NBF2"
+		},
+ 		{
+			"Symbol" : "NMB50"
+		},
+ 		{
+			"Symbol" : "LUK"
+		},
+ 		{
+			"Symbol" : "SFMF"
+		},
+ 		{
+			"Symbol" : "SLCF"
+		},
+ 		{
+			"Symbol" : "KEF"
+		},
+ 		{
+			"Symbol" : "NICSF"
+		},
+ 		{
+			"Symbol" : "NIBSF2"
+		},
+ 		{
+			"Symbol" : "SBCF"
+		},
+ 		{
+			"Symbol" : "PSF"
+		},
+ 		{
+			"Symbol" : "RMF1"
+		},
+ 		{
+			"Symbol" : "MMF1"
+		},
+ 		{
+			"Symbol" : "KDBY"
+		},
+ 		{
+			"Symbol" : "SIGS3"
+		},
+ 		{
+			"Symbol" : "SAGF"
+		},
+ 		{
+			"Symbol" : "NSIF2"
+		},
+ 		{
+			"Symbol" : "NICFC"
+		},
+ 		{
+			"Symbol" : "NBF3"
+		},
+ 		{
+			"Symbol" : "PRSF"
+		},
+ 		{
+			"Symbol" : "NIBLGF"
+		},
+ 		{
+			"Symbol" : "SFEF"
+		},
+ 		{
+			"Symbol" : "C30MF"
+		},
+ 		{
+			"Symbol" : "NICGF2"
+		},
+ 		{
+			"Symbol" : "LVF2"
+		},
+ 		{
+			"Symbol" : "RMF2"
+		},
+ 		{
+			"Symbol" : "KSY"
+		},
+ 		{
+			"Symbol" : "NIBLSTF"
+		},
+ 		{
+			"Symbol" : "H8020"
+		}
+	]
+}
