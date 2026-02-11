@@ -1,10 +1,9 @@
-import cv2
 import numpy as np
 import streamlit as st
 import colorsys
 from PIL import Image
-from sklearn.cluster import KMeans
 from streamlit_image_coordinates import streamlit_image_coordinates
+import cv2 
 
 UINT_MAX = (1 << 8) - 1
 HUE_MAX = 179 # this in actual case is 360 but, cv2 uses 0-179 format for 8-bit representation
