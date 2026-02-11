@@ -4,5 +4,6 @@
 *.json
 *.xlsx
 
-# **/*.txt
+**/*.txt
+/temp
 # **/*.json
