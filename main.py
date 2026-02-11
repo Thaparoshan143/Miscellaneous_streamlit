@@ -28,6 +28,7 @@ def get_files_stpage(path, files : list) -> list:
 st.set_page_config(
     page_title="Utility App",
     page_icon="😃",
+    layout="wide"
     # initial_sidebar_state='collapsed'
 )
 
